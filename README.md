@@ -9,17 +9,11 @@ You can stay in the loop in the #mining-and-pools channel of our Discord: https:
 ##Changes to this fork include but are not limited to:
 
 ```
-- File structure -
-$STORAGE_ROOT/yiimp/site/web
-$STORAGE_ROOT/yiimp/site/stratum (Only on single server installs)
-$STORAGE_ROOT/yiimp/site/configuration
-$STORAGE_ROOT/yiimp/site/crons
-$STORAGE_ROOT/goldcoin-pool/log
-$STORAGE_ROOT/goldcoin-pool/starts
-
 - Site Files-
 Updated various files including Stratum and Yiimp website base.
-$STORAGE_ROOT/goldcoin-pool/tree/next/stratum
+
+$STORAGE_ROOT/goldcoin-pool/stratum
+$STORAGE_ROOT/goldcoin-pool/web
 ```
 
 ## Credits:
