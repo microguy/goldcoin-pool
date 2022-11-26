@@ -14,7 +14,7 @@ $STORAGE_ROOT/goldcoin-pool/stratum
 $STORAGE_ROOT/goldcoin-pool/web
 ```
 
-## Credits:
+### Credits:
 
 * Thanks to tpruvot for the yiimp release
 * Thanks to mailinabox for the installer idea
