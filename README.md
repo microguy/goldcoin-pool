@@ -6,7 +6,7 @@ There have been many changes to the upstream repo that have not been added here 
 
 You can stay in the loop in the #mining-and-pools channel of our Discord: https://discord.me/goldcoin
 
-## Changes to this fork include but are not limited to:
+### Changes to this fork include but are not limited to:
 
 ```
 - Site Files-
