@@ -10,8 +10,6 @@ You can stay in the loop in the #mining-and-pools channel of our Discord: https:
 
 ```
 - Site Files-
-Updated various files including Stratum and Yiimp website base.
-
 $STORAGE_ROOT/goldcoin-pool/stratum
 $STORAGE_ROOT/goldcoin-pool/web
 ```
