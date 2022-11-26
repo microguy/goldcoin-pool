@@ -1,10 +1,12 @@
-### Welcome to the cryptopool.builders github!
-### This fork of YiiMP is designed to work with our Ultimate Crypto-Server Installer program.
-Trying to install this on a server not built by our installer will cause headaches, frustrations, and screaming loudly at your monitor.
+### Welcome to Goldcoin Pool repo!
 
-#### Please go to https://github.com/cryptopool-builders/Multi-Pool-Installer for our installer.
+This repo (will) contain the current working files for goldcoinpool.com. A community-based mining pool located at this address: https://goldcoinpool.com
 
-## Changes to this fork include but not limited to:
+There have been many changes to the upstream repo that have not been added here yet. I will push those changes as time permits. Currently, we are still developing the website.
+
+You can stay in the loop in the #mining-and-pools channel of our Discord: https://discord.me/goldcoin
+
+##Changes to this fork include but are not limited to:
 
 ```
 - File structure -
@@ -12,21 +14,16 @@ $STORAGE_ROOT/yiimp/site/web
 $STORAGE_ROOT/yiimp/site/stratum (Only on single server installs)
 $STORAGE_ROOT/yiimp/site/configuration
 $STORAGE_ROOT/yiimp/site/crons
-$STORAGE_ROOT/yiimp/site/log
-$STORAGE_ROOT/yiimp/starts
+$STORAGE_ROOT/goldcoin-pool/log
+$STORAGE_ROOT/goldcoin-pool/starts
 
 - Site Files-
-Updated various files to work with new file structure
+Updated various files including Stratum and Yiimp website base.
+$STORAGE_ROOT/goldcoin-pool/tree/next/stratum
 ```
-
-
-## Donations for continued support of this script are welcomed at:
-* BTC 3DvcaPT3Kio8Hgyw4ZA9y1feNnKZjH7Y21
-* BCH qrf2fhk2pfka5k649826z4683tuqehaq2sc65nfz3e
-* ETH 0x6A047e5410f433FDBF32D7fb118B6246E3b7C136
-* LTC MLS5pfgb7QMqBm3pmBvuJ7eRCRgwLV25Nz
 
 ## Credits:
 
 * Thanks to tpruvot for the yiimp release
 * Thanks to mailinabox for the installer idea
+* Thanks to cryptopool-builders for the base
